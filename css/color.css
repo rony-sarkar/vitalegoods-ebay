@@ -1,0 +1,44 @@
+ .tab-part-area input:checked + label span,
+ .tab-part-area label span:hover,
+ .single-product:hover.single-product h3 a,
+ .copy-right p a,
+ .tab-list p a {
+     color: #880000;
+ }
+
+ .featured-title {
+     background-color: #000;
+ }
+
+ #navbar ul,
+ .view-btn:hover,
+ .single-product:hover .single-product-info .view-btn,
+ .icon:hover,
+ .contact-btn,
+ .footer-area::before,
+ .menu-container {
+     background-color: #880000;
+ }
+
+ .view-btn:hover,
+ .single-product:hover .single-product-info .view-btn,
+ .contact-btn,
+ .footer-right ul li a,
+ .footer-right ul li:last-child {
+     border-color: #880000 !important;
+ }
+
+ .tab-part-area input:checked + label span,
+ .tab-part-area label span:hover {
+     border-bottom-color: #880000 !important;
+ }
+
+ .availability span,
+ .icon {
+     background-color: #000;
+ }
+
+ .quick-details ul li::before,
+ .tab-list ul li::before {
+     color: #E91D26;
+ }
